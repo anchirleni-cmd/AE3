@@ -1,2 +1,3 @@
-# AE3
-Materia Desenvolvimento Front-End Turma005
+# AE1 — Código Fonte Completo
+
+Estrutura com HTML + imagens otimizadas (JPG/WebP).
